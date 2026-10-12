@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-book-theme/commit/3512c865a60f9975e38077cc6e15f30c049cf6ee",
       "git:hexsha": "3512c865a60f9975e38077cc6e15f30c049cf6ee",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/sphinx-book-theme/commit/a746bb76980f66e5df8b83a560967d0aeb5e7af8",
