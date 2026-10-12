@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "sphinx-book-theme",
+  "versions": [
+    {
+      "commit": "3512c865a60f9975e38077cc6e15f30c049cf6ee",
+      "tag": "",
+      "parsed_at": "2026-10-12T20:06:39.000084+00:00"
+    }
+  ]
+}
